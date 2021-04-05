@@ -2,4 +2,4 @@
 
 Acorn Academy에서 수행한 Covid-19 시각화 프로젝트입니다.
 
-발표에 사용된 최종 결과물입니다. ([Code](./Case in Seoul & Gyeonggi-do in April.png))
+발표에 사용된 최종 결과물은 Covid-19 Analysis.pdf를 참고해주세요.
